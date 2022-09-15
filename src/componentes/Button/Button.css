@@ -1,0 +1,18 @@
+.conteiner-btn{
+    display: flex;
+
+}
+
+.botao{
+    background-color: #6278F7 ;
+    padding: 24px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+}
+.botao:hover{
+    color: #95FFD4;
+}

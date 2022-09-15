@@ -1,0 +1,19 @@
+.conteiner-formulario{
+    display: flex;
+    color: black;
+    background-color: #F7F7F7;
+    padding: 36px 64px;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    margin-top: 80px;
+    font-family: 'Prata';
+    width: 65%;
+    
+
+}
+.conteiner-formulario h2{
+    text-align: center;
+}
+.conteiner-formulario form{
+    width: 100%;
+}

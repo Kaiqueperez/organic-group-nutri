@@ -1,0 +1,21 @@
+.conteiner-squad{
+   
+    text-align: center;
+    color: black;
+    background: rgba(0, 200, 111, 0.15);
+    padding: 36px 64px;
+    margin-top: 80px;
+    font-family: 'Prata';
+    width: 89%;
+}
+.conteiner-squad p{
+    background-color: #57C278;
+    height: 4px;
+    width: 32px;
+    text-align: center;
+    display: inline-block;
+}
+.conteiner-colab{
+    display: flex;
+    justify-content: space-around;
+}

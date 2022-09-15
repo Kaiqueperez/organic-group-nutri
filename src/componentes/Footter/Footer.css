@@ -1,0 +1,24 @@
+.Footer {
+    width: 100%;
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 200px;
+}
+
+.footer-redes button{
+    background-color: #6278F7;
+    border: none;
+    border-radius: 20px;
+}
+
+.button img{
+   width: 33px;
+    height: 35;
+}
+.conteiner-para p{
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+}
